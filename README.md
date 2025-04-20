@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-  <span style="color:#F4A300;">Samiul</span> / 
+  <span style="color:#F4A300;">Samiul Hasan</span> / 
   <span style="background: linear-gradient(90deg, #F4A300, #FF6B00); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">Codenovabd</span>
 </p>
 
@@ -52,9 +52,9 @@
 
 | Project       | Purpose                          | Status |
 |--------------|----------------------------------|--------|
-| **CloudX**   | Encrypted cloud storage          | 🔒     |
+| **CloudX**   | Encrypted cloud storage          |  🔒     |
 | **NoteX**    | Offline-first notes app          | 🔒     |
-| **BizLedger**| AI-assisted accounting           | 🔒     |
+| **BizLedger**| AI-assisted accounting           |  🔒     |
 | **Vault**    | Zero-knowledge file manager      | 🔒     |
 
 > *"If it doesn't solve a problem, it doesn't exist."*  
@@ -75,6 +75,6 @@
 ## 📬 **Let's Talk**  
 ```bash
 # Terminal command to reach me
-$ ssh codenovabd@gmail.com -M 2005
+$ ssh<>codenovabd@gmail.com -M 2005
 > Password: *********
 [✔] Authentication successful. Welcome to the vault.
